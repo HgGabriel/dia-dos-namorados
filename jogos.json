@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2020-11-12",
+    "genre": ["Ação", "Aventura"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Demon's Souls",
+    "developer": "Bluepoint Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2020-11-12",
+    "genre": ["Ação", "RPG"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Ratchet & Clank: Rift Apart",
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2021-06-11",
+    "genre": ["Ação", "Plataforma"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Horizon Forbidden West",
+    "developer": "Guerrilla Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2022-02-18",
+    "genre": ["Ação", "RPG"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Elden Ring",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "2022-02-25",
+    "genre": ["Ação", "RPG"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Returnal",
+    "developer": "Housemarque",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2021-04-30",
+    "genre": ["Ação", "Roguelike"],
+    "platform": "PS5"
+  },
+  {
+    "title": "God of War Ragnarök",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2022-11-09",
+    "genre": ["Ação", "Aventura"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Final Fantasy XVI",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "release_date": "2023-06-22",
+    "genre": ["Ação", "RPG"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Resident Evil Village",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "2021-05-07",
+    "genre": ["Terror", "Ação"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Ghost of Tsushima: Director's Cut",
+    "developer": "Sucker Punch Productions",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2021-08-20",
+    "genre": ["Ação", "Aventura"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Gran Turismo 7",
+    "developer": "Polyphony Digital",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2022-03-04",
+    "genre": ["Corrida", "Simulação"],
+    "platform": "PS5"
+  },
+  {
+    "title": "The Last of Us Part I",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2022-09-02",
+    "genre": ["Ação", "Aventura"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Deathloop",
+    "developer": "Arkane Studios",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2021-09-14",
+    "genre": ["Ação", "FPS"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Kena: Bridge of Spirits",
+    "developer": "Ember Lab",
+    "publisher": "Ember Lab",
+    "release_date": "2021-09-21",
+    "genre": ["Ação", "Aventura"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Sackboy: Uma Grande Aventura",
+    "developer": "Sumo Digital",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2020-11-12",
+    "genre": ["Plataforma", "Aventura"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Stray",
+    "developer": "BlueTwelve Studio",
+    "publisher": "Annapurna Interactive",
+    "release_date": "2022-07-19",
+    "genre": ["Aventura", "Exploração"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Forspoken",
+    "developer": "Luminous Productions",
+    "publisher": "Square Enix",
+    "release_date": "2023-01-24",
+    "genre": ["Ação", "RPG"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Resident Evil 4 Remake",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "2023-03-24",
+    "genre": ["Terror", "Ação"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare II",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "release_date": "2022-10-28",
+    "genre": ["FPS", "Ação"],
+    "platform": "PS5"
+  },
+  {
+    "title": "Street Fighter 6",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "release_date": "2023-06-02",
+    "genre": ["Luta"],
+    "platform": "PS5"
+  }
+]
